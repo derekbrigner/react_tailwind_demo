@@ -45,7 +45,7 @@ function MyApp({ Component, pageProps }) {
           <div className="w-full p-2">
             <h2 className="font-bold text-2xl text-gray-300 uppercase">Contact</h2>
             <div className="m-2">
-              <a href="https://goo.gl/maps/gCkEFHreA7giGvp17" target="_blank" className="hover:underline">
+              <a target="_blank" className="hover:underline">
                 <div className="flex flex-col">
                   <div>Name</div>
                   <div>123 Address Rd.,</div>
